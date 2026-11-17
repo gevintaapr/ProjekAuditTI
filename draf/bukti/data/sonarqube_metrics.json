@@ -1,0 +1,19 @@
+{
+ "ncloc": 134693,
+ "files": 75,
+ "code_smells": 13036,
+ "sqale_index_min": 83049,
+ "sqale_debt_ratio": 2.1,
+ "sqale_rating": "A",
+ "bugs": 2990,
+ "vulnerabilities": 0,
+ "security_hotspots": 36,
+ "duplicated_lines_density": 7.2,
+ "severity_code_smells": {
+  "BLOCKER": 42,
+  "CRITICAL": 4160,
+  "MAJOR": 7811,
+  "MINOR": 1025,
+  "INFO": 0
+ }
+}
